@@ -1,0 +1,20 @@
+Browser => reads: HTML CSS JS 
+Js out of browser --> To execute code out of the broswer => by V8 engine
+JS for serverside development => fast and scaleable 
+=> Prefered NoSQL: like mongo
+=> Many possibilites
+As node allows out of browser running of JS code
+=> This code can be run in the terminal e.g. so no browser is required 
+// node ... .js //
+
+Node modules are required to do many further things
+=> Node based on these modules and relies heavily on them
+=> modules accessed in the beginning by defining a variable => require module
+=> can be accessed throughout the code
+Nodejs.org => find modules
+
+Fs: File system.
+
+----------------------------------------------------------------------
+Routing: 
+.... / ... => route 
